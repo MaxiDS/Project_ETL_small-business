@@ -13,6 +13,7 @@ A esto le sumo la creacion de una API que te permite consultar productos por ID 
 **Herramientas usadas:**  
 -Python  
 -MySQL  
--FastApi  
+-FastApi   
 
-
+**Video mostrando la API**  
+https://www.youtube.com/watch?v=k9-9mPRoTV0
